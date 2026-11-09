@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "997642339523",
+    "firebase_url": "https://mone-rakho-3a2cd-default-rtdb.firebaseio.com",
+    "project_id": "mone-rakho-3a2cd",
+    "storage_bucket": "mone-rakho-3a2cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997642339523:android:4275101055cf9d39fd0e76",
+        "android_client_info": {
+          "package_name": "com.sulmak.mone_rakho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0tPYdGIaHE9P95sh5SKdqWPkCLzVJh1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
